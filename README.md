@@ -14,7 +14,7 @@ I share coding tutorials, tech tips, and creative design content — all through
 📌 *Stay tuned for practical coding breakdowns and creative visual builds.*
 
 ### 🔧 Tools & Tech I Use
-`JavaScript` • `React` • `Tailwind CSS` • `Bootstrap` • `Java` • `HTML/CSS` • `Figma` • `Git/GitHub`
+`JavaScript` • `React` • `Tailwind CSS` • `Bootstrap` • `HTML/CSS` • `Figma` • `Git/GitHub`
 
 ### 📫 Let's Connect
 - 💬 Always happy to collaborate or chat about projects!
