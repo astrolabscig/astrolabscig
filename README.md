@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about building sleek, efficient application
 ### 🌱 Current Projects
 - 🎯 Building real-world projects with **React + Tailwind**
 - ⏱ Completing the **FreeCodeCamp Frontend Libraries** certification  
-- 💻 Studying **Java (OOP, Design Patterns)** and solidifying core principles
+- 💻 Studying Python Programming Language and solidifying core principles
 
 ### 📺 Also Creating On YouTube
 I share coding tutorials, tech tips, and creative design content — all through the lens of **Astrolab**, my media alias.  
