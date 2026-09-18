@@ -213,7 +213,7 @@ Repeat.
 
 <img src="https://github-readme-stats.vercel.app/api?username=axoncron&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF2D2D&text_color=F5F5F5&icon_color=FF2D2D&ring_color=FF2D2D" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axoncron&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF2D2D&text_color=F5F5F5&icon_color=FF2D2D&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrolabscig&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF2D2D&text_color=F5F5F5&icon_color=FF2D2D&langs_count=8" height="180"/>
 
 </div>
 
@@ -221,7 +221,7 @@ Repeat.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=axoncron&hide_border=true&background=0A0A0A&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=F5F5F5&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=astrolabscig&hide_border=true&background=0A0A0A&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=F5F5F5&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
 
 </div>
 
@@ -231,7 +231,7 @@ Repeat.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axoncron&bg_color=0A0A0A&color=F5F5F5&line=FF2D2D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astrolabscig&bg_color=0A0A0A&color=F5F5F5&line=FF2D2D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Repeat.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=axoncron&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=astrolabscig&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 
 </div>
 
