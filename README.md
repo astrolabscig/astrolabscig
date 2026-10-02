@@ -1,86 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,55:1A0505,100:E5484D&height=200&section=header&text=AXONCRON&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILD%20%7C%20BREAK%20%7C%20UNDERSTAND&descAlignY=59&descSize=16&descColor=FF6B6B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:120707,75:2A0808,100:E5484D&height=240&section=header&text=AXONCRON&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILD%20%2F%20BREAK%20%2F%20UNDERSTAND&descAlignY=61&descSize=17&descColor=E5484D" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=E5484D&center=true&vCenter=true&width=720&lines=Software+Engineering+%7C+Systems+%7C+AI;Infrastructure+%7C+Security+%7C+Computer+Science;Investigate.+Build.+Break.+Understand." alt="Axoncron"/>
+```text
+                         ┌───────────────────────────────┐
+                         │        AXONCRON LABS          │
+                         │                               │
+                         │  software · systems · AI      │
+                         │  security · infrastructure    │
+                         │                               │
+                         │  status: investigating...    │
+                         └───────────────────────────────┘
+```
 
-<br><br>
+<br>
 
-<a href="https://github.com/axoncron">
-<img src="https://img.shields.io/badge/GitHub-AXONCRON-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://x.com/axoncron">
-<img src="https://img.shields.io/badge/X-AXONCRON-0A0A0A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-</a>
-<a href="https://youtube.com/@axoncron">
-<img src="https://img.shields.io/badge/YouTube-AXONCRON-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-</a>
-<a href="https://huggingface.co/axoncron">
-<img src="https://img.shields.io/badge/Hugging%20Face-AXONCRON-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=axoncron&label=PROFILE%20VIEWS&color=E5484D&style=flat-square" alt="Profile views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/axoncron)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge\&logo=x\&logoColor=FFFFFF)](https://x.com/axoncron)
+[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge\&logo=youtube\&logoColor=FFFFFF)](https://youtube.com/@axoncron)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0A0A0A?style=for-the-badge\&logo=huggingface\&logoColor=FFFFFF)](https://huggingface.co/axoncron)
 
 </div>
 
 ---
 
-## `> whoami`
-
 ```text
-AXONCRON
-────────────────────────────────────────────────────────────
+axoncron@lab:~$ whoami
 
-Independent technical laboratory.
+computer science student.
+builder.
+curious about what happens underneath the abstraction.
 
-I am interested in understanding what happens beneath
-the abstractions we use every day.
+axoncron@lab:~$ cat /etc/focus
 
-Software → Systems → AI → Infrastructure → Security
+software engineering
+computer systems
+artificial intelligence
+security
+infrastructure
 
-I learn by investigating, building, breaking things,
-debugging the failure, and understanding what happened.
+axoncron@lab:~$ cat /etc/method
 
-Current status → Building.
+question → investigate → build → break → debug → understand
+
+axoncron@lab:~$ echo $STATUS
+
+building.
 ```
 
 > **I don't want to just use technology. I want to understand it.**
 
 ---
 
-## `// CURRENTLY BUILDING`
+## `01 / LAB`
 
-I'm focused on turning what I learn into working systems.
+Axoncron is a technical laboratory for turning questions into working systems.
+
+Some projects are polished.
+
+Some are experiments.
+
+Some are deliberately broken.
+
+Some exist because I wanted to know **why** something works.
+
+That's the point.
+
+```text
+                    ┌─────────────┐
+                    │  CURIOSITY  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   QUESTION  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ INVESTIGATE │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    BUILD    │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    BREAK    │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    DEBUG    │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  UNDERSTAND │
+                    └──────┬──────┘
+                           │
+                           └──────────────► repeat
+```
+
+---
+
+## `02 / WHAT I'M CHASING`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SOFTWARE ENGINEERING
+### `SOFTWARE`
 
-* Backend systems
-* APIs & services
-* Full-stack applications
-* Databases
-* Developer tooling
-* Software architecture
+```text
+backend systems
+APIs
+databases
+developer tooling
+architecture
+distributed systems
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### SYSTEMS
+### `SYSTEMS`
 
-* Operating systems
-* Linux
-* Networking
-* Systems programming
-* Infrastructure
-* Performance
+```text
+Linux
+operating systems
+networking
+systems programming
+infrastructure
+performance
+```
 
 </td>
 </tr>
@@ -88,27 +146,31 @@ I'm focused on turning what I learn into working systems.
 <tr>
 <td width="50%" valign="top">
 
-### AI
+### `INTELLIGENCE`
 
-* Machine learning
-* AI systems
-* Local AI
-* LLM applications
-* Model experimentation
-* AI infrastructure
+```text
+machine learning
+AI systems
+LLMs
+local AI
+model experimentation
+intelligent applications
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### SECURITY
+### `SECURITY`
 
-* Application security
-* Web security
-* Network security
-* Security engineering
-* Defensive systems
-* Security research
+```text
+application security
+web security
+network security
+security engineering
+defensive systems
+research
+```
 
 </td>
 </tr>
@@ -116,245 +178,171 @@ I'm focused on turning what I learn into working systems.
 
 ---
 
-## `// SELECTED WORK`
-
-The best way to understand what I'm learning is to look at what I'm building.
-
-| Project                | Description                                                                                                                |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **CS Resource Hub**    | A resource platform for organizing and accessing useful Computer Science materials.                                        |
-| **SaveDat**            | An exploration into safer file state, backup, and recovery workflows.                                                      |
-| **SteamProj**          | Contributions to a learning platform involving Django, APIs, authentication, background processing, and a modern frontend. |
-| **System Experiments** | Small projects exploring programming, operating systems, networking, data, and infrastructure.                             |
-
-> More projects will appear here as they move from experiments into systems worth sharing.
-
----
-
-## `// THE LAB`
-
-Not everything here is a finished product.
-
-Some repositories are experiments.
-
-Some are prototypes.
-
-Some exist because I wanted to understand how something works.
-
-Some will fail.
-
-That's intentional.
+## `03 / CURRENT EXPERIMENTS`
 
 ```text
-                    ┌──────────────┐
-                    │   CURIOSITY  │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   QUESTION   │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │ INVESTIGATE  │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    BUILD     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    BREAK     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │  UNDERSTAND  │
-                    └──────┬───────┘
-                           │
-                           └──────────→ REPEAT
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] SOFTWARE ENGINEERING                                  │
+│       Going deeper than "make it work."                     │
+│                                                              │
+│  [02] COMPUTER SYSTEMS                                      │
+│       Learning what the machine is actually doing.          │
+│                                                              │
+│  [03] AI                                                     │
+│       Understanding the machinery behind intelligent apps.  │
+│                                                              │
+│  [04] SECURITY                                               │
+│       Learning how systems fail — and how to defend them.   │
+│                                                              │
+│  [05] INFRASTRUCTURE                                        │
+│       The boring-looking layer that makes everything work.  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `// CURRENTLY EXPLORING`
+## `04 / THINGS I'VE BEEN BUILDING`
 
-```text
-Software Engineering
-        │
-        ├── Backend Architecture
-        ├── Databases
-        ├── Distributed Systems
-        └── Developer Infrastructure
+### `CS Resource Hub`
 
-Computer Systems
-        │
-        ├── Linux
-        ├── Operating Systems
-        ├── Networking
-        └── Systems Programming
+A project around making Computer Science resources easier to discover, organize, and use.
 
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── LLM Systems
-        ├── Local AI
-        └── Intelligent Applications
+**Stack:** `...`
 
-Security
-        │
-        ├── Application Security
-        ├── Web Security
-        ├── Network Security
-        └── Defensive Engineering
-```
+→ [repository](https://github.com/axoncron)
 
 ---
 
-## `// STACK`
+### `SaveDat`
 
-### Languages
+An experiment born from a simple problem:
 
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-0A0A0A?style=flat-square\&logo=cplusplus\&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-0A0A0A?style=flat-square\&logo=gnubash\&logoColor=FFFFFF)
+**What happens when your files matter and the storage holding them doesn't?**
 
-### Backend & Web
+Exploring better approaches to file state, backup, recovery, and avoiding unnecessary duplicate copies.
 
-![Spring](https://img.shields.io/badge/Spring-0A0A0A?style=flat-square\&logo=spring\&logoColor=6DB33F)
-![Django](https://img.shields.io/badge/Django-0A0A0A?style=flat-square\&logo=django\&logoColor=44B78B)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square\&logo=next.js\&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square\&logo=postgresql\&logoColor=4169E1)
-
-### Systems & Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square\&logo=linux\&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square\&logo=git\&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square\&logo=docker\&logoColor=2496ED)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square\&logo=github\&logoColor=FFFFFF)
+**Status:** `research / prototype`
 
 ---
 
-## `// ENGINEERING MINDSET`
+### `SteamProj`
 
-```text
-Understand the abstraction.
-        ↓
-Question the abstraction.
-        ↓
-Build a smaller version.
-        ↓
-Observe what happens.
-        ↓
-Break it deliberately.
-        ↓
-Read the failure.
-        ↓
-Understand the system.
-        ↓
-Build it better.
-```
+Contributing to a learning platform while working with real-world concerns around:
 
-I care more about understanding **why** something works than simply knowing **how** to make it work.
+`Django` · `REST APIs` · `authentication` · `background jobs` · `databases` · `Next.js`
+
+**Status:** `open source / active`
 
 ---
 
-## `// GITHUB ACTIVITY`
+### `More experiments →`
+
+The interesting ones will eventually end up here.
+
+---
+
+## `05 / THE TOOLBOX`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=axoncron&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E5484D&text_color=F5F5F5&icon_color=E5484D&ring_color=E5484D" height="170" alt="Axoncron GitHub statistics"/>
+### LANGUAGES
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axoncron&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E5484D&text_color=F5F5F5&langs_count=6" height="170" alt="Axoncron top languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,bash" />
+
+<br><br>
+
+### BUILD
+
+<img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,postgres" />
+
+<br><br>
+
+### SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+
+</div>
+
+<br>
+
+```text
+Not everything in the toolbox is mastered.
+
+Some tools are here because I'm learning them.
+Some because I'm building with them.
+Some because I'm trying to understand them.
+```
+
+---
+
+## `06 / ENGINEERING NOTES`
+
+```text
+01  Understand the abstraction.
+
+02  Read the source when the abstraction gets interesting.
+
+03  Build the smaller version.
+
+04  Don't guess when you can measure.
+
+05  A bug is evidence.
+
+06  If something breaks, find out why.
+
+07  Prefer systems you can explain.
+
+08  Keep experiments reproducible.
+
+09  Learn the fundamentals underneath the framework.
+
+10  Stay curious.
+```
+
+---
+
+## `07 / TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=axoncron&show_icons=true&hide_border=true&bg_color=080808&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D&ring_color=E5484D&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axoncron&layout=compact&hide_border=true&bg_color=080808&title_color=E5484D&text_color=FFFFFF&langs_count=7" height="180"/>
 
 </div>
 
 ---
 
-## `// BUILD LOG`
-
-<details>
-<summary><b>What is happening inside the lab?</b></summary>
-
-<br>
-
-Axoncron is an evolving technical identity.
-
-The repositories here document the process of learning through implementation:
-
-```text
-"I wonder how this works."
-            ↓
-"Let's investigate."
-            ↓
-"Let's build a smaller version."
-            ↓
-"Why did it break?"
-            ↓
-"Let's understand the failure."
-            ↓
-"Let's build it properly."
-```
-
-The goal isn't to appear finished.
-
-The goal is to keep getting better at understanding and building systems.
-
-</details>
-
----
-
-## `// ROADMAP`
-
-```text
-[ IN PROGRESS ]
-
-→ Strengthen Computer Science fundamentals
-→ Build deeper software engineering intuition
-→ Go deeper into backend engineering
-→ Explore systems programming
-→ Understand networking from the ground up
-→ Study security engineering
-→ Experiment with AI systems
-→ Build useful developer infrastructure
-→ Contribute to open source
-→ Document what gets learned
-```
-
----
-
-## `// CONNECT`
+## `08 / ACTIVITY`
 
 <div align="center">
 
-If you're building something interesting,
-researching a difficult problem,
-or experimenting with technology:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=axoncron&bg_color=080808&color=FFFFFF&line=E5484D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Axoncron GitHub activity"/>
 
-### **Let's build.**
+</div>
 
-<br>
+---
 
-<a href="https://github.com/axoncron">
-<img src="https://img.shields.io/badge/GitHub-AXONCRON-E5484D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## `09 / TRANSMISSION`
 
-<a href="https://x.com/axoncron">
-<img src="https://img.shields.io/badge/X-AXONCRON-E5484D?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+```text
+axoncron@lab:~$ ./connect
 
-<a href="https://youtube.com/@axoncron">
-<img src="https://img.shields.io/badge/YouTube-AXONCRON-E5484D?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+If you're building something strange,
+solving a difficult problem,
+reverse-engineering an abstraction,
+or simply trying to understand how something works —
 
-<a href="https://huggingface.co/axoncron">
-<img src="https://img.shields.io/badge/Hugging%20Face-AXONCRON-E5484D?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
+say hello.
+```
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/@axoncron-0A0A0A?style=for-the-badge\&logo=x\&logoColor=FFFFFF)](https://x.com/axoncron)
+[![YouTube](https://img.shields.io/badge/axoncron-0A0A0A?style=for-the-badge\&logo=youtube\&logoColor=FFFFFF)](https://youtube.com/@axoncron)
+[![Hugging Face](https://img.shields.io/badge/axoncron-0A0A0A?style=for-the-badge\&logo=huggingface\&logoColor=FFFFFF)](https://huggingface.co/axoncron)
 
 </div>
 
@@ -363,16 +351,25 @@ or experimenting with technology:
 <div align="center">
 
 ```text
-AXONCRON
-────────────────────────────────────────────
+                 AXONCRON
+        ─────────────────────────
 
-QUESTION  →  INVESTIGATE  →  BUILD
-     ↑                         ↓
-     └────── UNDERSTAND ← BREAK
+        QUESTION
+             ↓
+        INVESTIGATE
+             ↓
+          BUILD
+             ↓
+          BREAK
+             ↓
+         UNDERSTAND
 
-────────────────────────────────────────────
+        ─────────────────────────
+             keep digging.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5484D,50:1A0505,100:0A0A0A&height=110&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5484D,45:2A0808,100:080808&height=130&section=footer" width="100%"/>
 
 </div>
