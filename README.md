@@ -1,26 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050506,35:0B0B0C,72:260B0D,100:E5484D&text=AXONCRON&fontColor=FFFFFF&fontSize=58&fontAlignY=37&desc=SOFTWARE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AI%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=61&descSize=14&animation=fadeIn" width="100%">
+<a href="https://github.com/astrolabscig">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050506,45:0B0B0C,75:2A0B0D,100:E5484D&text=AXONCRON&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AI%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=61&descSize=15&animation=fadeIn" width="100%">
+
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=E5484D&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOT+%5D;SIGNAL+DETECTED...;BUILDING+SOFTWARE+TO+UNDERSTAND+SYSTEMS;QUESTION+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND;%5B+CURIOUSITY+ENGINE+ONLINE+%5D" alt="AXONCRON">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=700&color=E5484D&center=true&vCenter=true&width=850&lines=SIGNAL+DETECTED;BUILDING+SOFTWARE+TO+UNDERSTAND+SYSTEMS;EXPERIMENTING+ACROSS+LAYERS;QUESTION+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND;CURIOSITY+ENGINE+ONLINE" alt="Axoncron signal">
 
 <br><br>
 
 <a href="https://github.com/astrolabscig">
-<img src="https://img.shields.io/badge/%E2%97%89%20GITHUB-E5484D?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-E5484D?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
+
 <a href="https://x.com/astrolabscig">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20X-0B0B0C?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-0B0B0C?style=for-the-badge&logo=x&logoColor=FFFFFF">
 </a>
+
 <a href="https://www.youtube.com/@axoncron">
-<img src="https://img.shields.io/badge/%E2%96%B6%20YOUTUBE-0B0B0C?style=for-the-badge&logo=youtube&logoColor=E5484D">
+<img src="https://img.shields.io/badge/YOUTUBE-0B0B0C?style=for-the-badge&logo=youtube&logoColor=E5484D">
 </a>
 
 <br><br>
 
-`● ONLINE`   `◉ BUILDING`   `◌ INVESTIGATING`   `⌁ EXPERIMENTING`
+<img src="https://komarev.com/ghpvc/?username=astrolabscig&style=for-the-badge&color=E5484D&label=PROFILE+SIGNALS">
 
 </div>
 
@@ -28,263 +34,175 @@
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   A X O N C R O N                                                    │
-│                                                                      │
-│   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐        │
-│   │   SOFTWARE   │────▶│    SYSTEMS   │────▶│      AI      │        │
-│   └──────────────┘     └──────┬───────┘     └──────────────┘        │
-│                               │                                      │
-│                               ▼                                      │
-│                       ┌──────────────┐                               │
-│                       │ INFRASTRUCTURE│                              │
-│                       └──────┬───────┘                               │
-│                              │                                       │
-│                              ▼                                       │
-│                         ? / WHY / ?                                  │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astrolabscig&bg_color=0B0B0C&color=FFFFFF&line=E5484D&point=E5484D&area=true&area_color=E5484D&hide_border=true&custom_title=AXONCRON%20%2F%20LIVE%20ACTIVITY" width="100%" alt="Live GitHub activity">
 
 </div>
-
-## `╱╲ SIGNAL`
-
-> **I build software to understand how systems behave.**
-
-Not just the framework.
-
-Not just the API.
-
-Not just the abstraction.
-
-```text
-APPLICATION
-     │
-     ▼
-  FRAMEWORK
-     │
-     ▼
-   RUNTIME
-     │
-     ▼
-OPERATING SYSTEM
-     │
-     ▼
-   NETWORK
-     │
-     ▼
-INFRASTRUCTURE
-     │
-     ▼
-  HARDWARE
-```
-
-**The interesting part is what happens between the boxes.**
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=astrolabscig&bg_color=0B0B0C&color=FFFFFF&line=E5484D&point=FFFFFF&area_color=E5484D&area=true&hide_border=true&custom_title=%E2%96%88%E2%96%88%20AXONCRON%20SIGNAL%20MONITOR%20%E2%96%88%E2%96%88" width="96%" alt="AXONCRON activity monitor">
-
-</div>
-
-<div align="center">
-
-`━━━━━━━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━`
-
-**LIVE DEVELOPMENT SIGNAL**
-
-`commits` · `projects` · `experiments` · `contributions`
-
-</div>
-
----
-
-<div align="center">
-
-### `╭─ CONTRIBUTION ENGINE ─╮`
 
 <br>
+
+<div align="center">
+
+**I build software to understand how systems behave.**
+
+<br>
+
+`SOFTWARE` · `SYSTEMS` · `AI` · `NETWORKING` · `SECURITY` · `INFRASTRUCTURE`
+
+</div>
+
+---
+
+## CURRENT SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=astrolabscig&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D&rank_icon=github&custom_title=AXONCRON%20TELEMETRY" height="190">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrolabscig&layout=compact&langs_count=8&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&custom_title=LANGUAGE%20SIGNAL" height="190">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=astrolabscig&theme=dark&hide_border=true&background=0B0B0C&ring=E5484D&fire=E5484D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8A8A8E" width="85%" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+# CONTRIBUTION UNIVERSE
+
+### SNAKE
+
+<div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Animated GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake">
 </picture>
 
-<br>
-
-`╰──────────────────────────╯`
-
-<sub>▰ activity → motion</sub>
-
 </div>
 
----
+Snake is a genuine animated SVG generated from the contribution calendar and can be automatically regenerated daily with GitHub Actions. Its colors can also be customized.
+
+### PAC-MAN
 
 <div align="center">
 
-### `╭─ ARCADE SUBSYSTEM ─╮`
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/pacman-contribution-graph.svg">
-<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/pacman-contribution-graph-dark.svg" width="98%" alt="Pac-Man contribution graph">
-</picture>
-
-`╰─────────────────────╯`
-
-<sub>same data · different physics</sub>
+<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph">
 
 </div>
 
----
+### GRAVITY
 
 <div align="center">
 
-### `╭─ CONTRIBUTION TERRAIN ─╮`
-
-<img src="https://github-profile-3d-contrib.vercel.app/2?username=astrolabscig&theme=night-view&format=svg" width="98%" alt="3D contribution terrain">
-
-`╰──────────────────────────╯`
+<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-gravity.svg" width="100%" alt="GitHub contribution gravity">
 
 </div>
 
----
-
-## `╱╲ CURRENT VECTOR`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### `01`
-
-```text
-╔════════════╗
-║   BUILD    ║
-╚════════════╝
-```
-
-Applications
-Developer tools
-Useful systems
-Open source
-
-</td>
-
-<td width="33%" align="center">
-
-### `02`
-
-```text
-╔════════════╗
-║ INVESTIGATE║
-╚════════════╝
-```
-
-Operating systems
-Networks
-Databases
-Architecture
-
-</td>
-
-<td width="33%" align="center">
-
-### `03`
-
-```text
-╔════════════╗
-║  EXPLORE   ║
-╚════════════╝
-```
-
-AI
-Security
-Infrastructure
-Automation
-
-</td>
-</tr>
-</table>
-
----
+### BUBBLE SHOOTER
 
 <div align="center">
 
-### `╭─ CODE TELEMETRY ─╮`
+<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-contribution-bubbles.svg" width="100%" alt="Animated contribution bubble shooter">
 
-<img src="https://github-readme-stats.vercel.app/api?username=astrolabscig&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D&rank_icon=github&custom_title=SYSTEM%20TELEMETRY" height="180">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrolabscig&layout=compact&langs_count=8&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&custom_title=LANGUAGE%20SIGNAL" height="180">
+The Bubble Shooter generator actually turns contribution cells into an animated SVG with popping/exploding effects and can be kept current through GitHub Actions.
+
+---
+
+# CONTRIBUTION TERRAIN
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution landscape">
+
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=astrolabscig&theme=dark&hide_border=true&background=0B0B0C&ring=E5484D&fire=E5484D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8A8A8E" width="82%">
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="48%" alt="Night contribution terrain">
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="48%" alt="Git block contribution terrain">
+
+</div>
+
+The 3D contribution system can generate multiple visual variants automatically, including animated, night, rainbow and Git-block versions.
+
+---
+
+# CONTRIBUTION MARKET
+
+<div align="center">
+
+<img src="https://github-candles.vercel.app/api?username=astrolabscig" width="100%" alt="GitHub contribution candlestick chart">
+
+</div>
+
+<br>
+
+<div align="center">
+
+`OPEN` · `HIGH` · `LOW` · `CLOSE`
 
 </div>
 
 ---
 
+# THE LIVING PROFILE
+
 <div align="center">
 
-### `╭─ CONTRIBUTION MARKET ─╮`
+<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/pet/github-pet.svg" width="220" alt="Animated GitHub activity pet">
 
-<img src="https://github-candles.vercel.app/api?username=astrolabscig" width="98%" alt="GitHub contribution candlestick chart">
+</div>
 
 <br>
 
-`OPEN` · `CLOSE` · `HIGH` · `LOW` · `VOLUME`
+<div align="center">
 
-<sub>commits translated into market motion.</sub>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=pdfplumber&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D" width="48%" alt="Featured repository">
+
+</div>
+
+GitHub Pet is one of the newer options worth using because it reacts to real GitHub activity such as streaks, releases and CI failures instead of being a completely static decoration.
+
+---
+
+# WHAT I BUILD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=kortex&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=portfolio1&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=promptopia&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=randomquotes&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D">
 
 </div>
 
 ---
 
-## `╱╲ THE TOOLCHAIN`
+# TECHNOLOGY
 
 <div align="center">
 
-```text
-        LANGUAGES
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
-   JAVA  PYTHON  C++
-     │     │     │
-     └─────┼─────┘
-           │
-           ▼
-      WEB / BACKEND
-           │
-   ┌───────┼────────┐
-   ▼       ▼        ▼
- REACT   DJANGO   SPRING
-   │       │        │
-   └───────┼────────┘
-           ▼
-       DATA LAYER
-           │
-   POSTGRES · MONGO · REDIS
-           │
-           ▼
-      INFRASTRUCTURE
-           │
-   LINUX · DOCKER · NGINX
-           │
-           ▼
-       DEPLOY / SHIP
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,bash,html,css&perline=8&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,bash&perline=6&theme=dark">
 
 <br><br>
 
@@ -298,155 +216,96 @@ Automation
 
 ---
 
+# VISUAL SIGNALS
+
 <div align="center">
 
-## `╭─ SYSTEM ARCHITECTURE ─╮`
+<img src="https://github-readme-stats.vercel.app/api?username=astrolabscig&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D&hide=issues,prs" width="49%">
 
-```text
-                         ┌───────────────┐
-                         │   AXONCRON    │
-                         └───────┬───────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-         APPLICATION          SYSTEMS              AI
-              │                  │                  │
-              │          ┌───────┴───────┐          │
-              │          │               │          │
-              ▼          ▼               ▼          ▼
-           WEB       PROCESSES        NETWORKS   MODELS
-              │          │               │          │
-              └──────────┴───────┬───────┴──────────┘
-                                  │
-                                  ▼
-                           INFRASTRUCTURE
-                                  │
-                                  ▼
-                              HARDWARE
-```
-
-`╰───────────────────────────────╯`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrolabscig&theme=dark&hide_border=true&background=0B0B0C&ring=E5484D&fire=E5484D&currStreakLabel=FFFFFF" width="49%">
 
 </div>
 
 ---
 
-## `╱╲ ENGINEERING LOOP`
+# WHAT I'M EXPLORING
 
 <div align="center">
 
-```text
-       ╭─────────────╮
-       │   QUESTION  │
-       ╰──────┬──────╯
-              │
-              ▼
-       ╭─────────────╮
-       │    BUILD    │
-       ╰──────┬──────╯
-              │
-              ▼
-       ╭─────────────╮
-       │    BREAK    │
-       ╰──────┬──────╯
-              │
-              ▼
-       ╭─────────────╮
-       │    DEBUG    │
-       ╰──────┬──────╯
-              │
-              ▼
-       ╭─────────────╮
-       │ UNDERSTAND  │
-       ╰──────┬──────╯
-              │
-              └───────────────────↺
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astrolabscig&bg_color=0B0B0C&color=E5484D&line=FFFFFF&point=E5484D&area=false&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" width="100%">
 
 </div>
-
----
-
-<div align="center">
-
-### `╭─ SYSTEM CONSOLE ─╮`
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│ AXONCRON / CORE                                           │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  STATUS       ● ONLINE                                    │
-│  MODE         BUILD / INVESTIGATE                         │
-│  SIGNAL       ████████████████████░░░                     │
-│  CURIOSITY    ████████████████████████░                   │
-│  EXPERIMENTS  █████████████████░░░░░                     │
-│                                                           │
-│  ───────────────────────────────────────────────────────  │
-│                                                           │
-│  [SYS]   software systems                                │
-│  [NET]   networking / infrastructure                     │
-│  [AI ]   machine intelligence                             │
-│  [SEC]   security / fundamentals                          │
-│  [LAB]   experiments                                     │
-│                                                           │
-│  SIGNAL: ██████████████████████████████████████████  RX   │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-### `╭─ ACTIVITY PET ─╮`
-
-<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/pet/github-pet.svg" width="190" alt="GitHub activity pet">
 
 <br>
 
-`◉ watching the commits`
+<div align="center">
+
+`SOFTWARE ENGINEERING`
+
+`SYSTEMS`
+
+`AI`
+
+`NETWORKING`
+
+`SECURITY`
+
+`INFRASTRUCTURE`
+
+`DEVELOPER TOOLING`
+
+`OPEN SOURCE`
+
+</div>
+
+---
+
+# THE LOOP
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0B0B0C&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20INVESTIGATE%20%E2%86%92%20REBUILD&fontColor=E5484D&fontSize=18&animation=fadeIn" width="100%" alt="Engineering loop">
+
+</div>
+
+---
+
+# THE STACK IN MOTION
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,nodejs,django,spring,postgres,mongodb,redis,linux,docker,git,github,nginx,cloudflare,vscode,figma&perline=11&theme=dark">
+
+</div>
+
+---
+
+# LAB
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1300&color=8A8A8E&center=true&vCenter=true&width=850&lines=reading+code+I+didn't+write;building+things+I+haven't+seen+before;trying+to+understand+what+happens+underneath;turning+questions+into+experiments" alt="Lab signal">
 
 </div>
 
 ---
 
 <details>
-<summary><b>╭─ OPEN LAB ─╮</b></summary>
+<summary><b>OPEN THE LAB</b></summary>
 
 <br>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  WHAT I'M TRYING TO GET BETTER AT                            │
-│                                                              │
-│  ├─ writing software that survives contact with reality      │
-│  ├─ understanding computers below the framework              │
-│  ├─ designing systems instead of isolated features           │
-│  ├─ reading unfamiliar codebases                             │
-│  ├─ contributing to open source                              │
-│  ├─ building developer tools                                 │
-│  └─ understanding AI instead of only using AI                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm interested in:
 
-### `THE RULE`
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       DON'T COLLECT TECHNOLOGIES.            ║
-║       UNDERSTAND SYSTEMS.                    ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-`learn` → `build` → `break` → `investigate` → `rebuild`
+* building useful software
+* understanding systems beneath frameworks
+* developer tooling
+* infrastructure
+* artificial intelligence
+* networking
+* security fundamentals
+* open-source contribution
+* experiments that answer interesting questions
 
 </details>
 
@@ -454,50 +313,18 @@ Automation
 
 <div align="center">
 
-## `╭─ SIGNAL ARCHIVE ─╮`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:E5484D,45:260B0D,100:0B0B0C&animation=fadeIn" width="100%">
 
 <br>
 
-```text
-     ╭──────────╮
-     │  GITHUB  │─────── source
-     ╰──────────╯
+`AXONCRON`
 
-     ╭──────────╮
-     │    X     │─────── thoughts
-     ╰──────────╯
-
-     ╭──────────╮
-     │ YOUTUBE  │─────── experiments
-     ╰──────────╯
-```
-
-<br>
-
-<a href="https://github.com/astrolabscig">
-<img src="https://img.shields.io/badge/%E2%97%89_SOURCE-E5484D?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://x.com/astrolabscig">
-<img src="https://img.shields.io/badge/%E2%9A%A1_SIGNAL-0B0B0C?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@axoncron">
-<img src="https://img.shields.io/badge/%E2%96%B6_LAB-0B0B0C?style=for-the-badge&logo=youtube&logoColor=E5484D">
-</a>
+**BUILD · INVESTIGATE · REPEAT**
 
 <br><br>
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-<br>
-
-**AXONCRON**
-
-`BUILD  /  INVESTIGATE  /  REPEAT`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:E5484D,50:260B0D,100:0B0B0C" width="100%">
+<a href="https://github.com/astrolabscig">GITHUB</a>
+  •   <a href="https://x.com/astrolabscig">X</a>
+  •   <a href="https://www.youtube.com/@axoncron">YOUTUBE</a>
 
 </div>
