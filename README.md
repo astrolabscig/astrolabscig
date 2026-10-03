@@ -74,6 +74,10 @@
 **Recent activity**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/kweku461/Food-Delivery-And-Logistics-/pull/2) in [kweku461/Food-Delivery-And-Logistics-](https://github.com/kweku461/Food-Delivery-And-Logistics-)
+2. 💪 Opened PR [#4](https://github.com/kweku461/api-fundamentals/pull/4) in [kweku461/api-fundamentals](https://github.com/kweku461/api-fundamentals)
+3. 🎉 Merged PR [#1](https://github.com/kweku461/api-fundamentals/pull/1) in [kweku461/api-fundamentals](https://github.com/kweku461/api-fundamentals)
+4. 💪 Opened PR [#1](https://github.com/kweku461/api-fundamentals/pull/1) in [kweku461/api-fundamentals](https://github.com/kweku461/api-fundamentals)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt="">
