@@ -31,15 +31,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  activity:
+    activity:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
-
+          
   metrics:
     needs: activity
     runs-on: ubuntu-latest
